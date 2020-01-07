@@ -1,0 +1,8 @@
+.card-body {
+    flex-direction: column;
+}
+
+.card-body .row {
+    width: 100%;
+    margin-bottom: 1rem;
+}
